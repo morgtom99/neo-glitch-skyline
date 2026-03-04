@@ -1,0 +1,61 @@
+{
+  "title": "Neo-Glitch Skyline",
+  "description": "An intricate, abstract aesthetic featuring hyper-detailed glowing circuitry, crystalline data streams, and fragmented holographic projections against a shadowy, high-tech urban landscape.",
+  "seedPalette": [
+    "#6A00FF",
+    "#FF00D4",
+    "#00FFFF",
+    "#00FF8C",
+    "#FF8C00",
+    "#2F2FBF",
+    "#CC0066"
+  ],
+  "colorConcepts": [
+    [
+      "hologram",
+      "data",
+      "circuitry"
+    ],
+    [
+      "neon",
+      "glitch",
+      "display"
+    ],
+    [
+      "interface",
+      "code",
+      "plasma"
+    ],
+    [
+      "bio-tech",
+      "grid",
+      "network"
+    ],
+    [
+      "smog",
+      "rust",
+      "reactor"
+    ],
+    [
+      "matrix",
+      "skyline",
+      "chasm"
+    ],
+    [
+      "dystopia",
+      "pulse",
+      "chrome"
+    ]
+  ],
+  "primary": "180 100% 50%",
+  "background": "240 47% 8%",
+  "accent": "240 37% 18%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "abstract",
+    "detail": "detailed"
+  },
+  "id": "theme-neo-glitch-skyline",
+  "repository": "neo-glitch-skyline",
+  "owner": "morgtom99"
+}

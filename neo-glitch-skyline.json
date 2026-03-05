@@ -53,9 +53,12 @@
   "imageStyle": {
     "complexity": "maximal",
     "style": "abstract",
-    "detail": "detailed"
+    "detail": "detailed",
+    "dimension": "flat",
+    "lighting": "dramatic"
   },
   "id": "theme-neo-glitch-skyline",
   "repository": "neo-glitch-skyline",
-  "owner": "morgtom99"
+  "owner": "morgtom99",
+  "branch": "main"
 }

@@ -55,10 +55,20 @@
     "style": "abstract",
     "detail": "detailed",
     "dimension": "flat",
-    "lighting": "dramatic"
+    "lighting": "dramatic",
+    "texture": "none"
   },
   "id": "theme-neo-glitch-skyline",
   "repository": "neo-glitch-skyline",
   "owner": "morgtom99",
-  "branch": "main"
+  "branch": "main",
+  "colorDescriptions": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
